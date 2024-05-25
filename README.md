@@ -23,3 +23,12 @@ He utilizado el compilador GnuCOBOL V-3.1.2.0 y el IDE específico para COBOL Op
 
 ![image](https://github.com/jlanzosg/COBOL-ETL/assets/170817631/41d79ffa-c204-485a-b128-f3888bef5a40)
 
+También se puede utilizar el editor de código Geany:
+
+![image](https://github.com/jlanzosg/COBOL-ETL/assets/170817631/839ba517-c195-4619-b3ec-1fca8f371996)
+
+Si este fuese un proyecto real, deberíamos hacer validaciones previas a los archivos de entrada, con el objeto de identificar registros con errores o incompletos y tomar alguna acción.
+
+
+
+
