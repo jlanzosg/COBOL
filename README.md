@@ -20,3 +20,6 @@ Una vez que hemos creado los archivos indexados procesamos el cuarto archivo, pa
 A continuación ordenamos este archivo por cliente y número de teléfono y generamos un último archivo con el resumen por cliente, agregando el nombre del mismo y su cuenta bancaria: LLAMADAS-CLI-M.DAT.
 
 He utilizado el compilador GnuCOBOL V-3.1.2.0 y el IDE específico para COBOL OpenCobolIDE V-4.7.6 :
+
+![image](https://github.com/jlanzosg/COBOL-ETL/assets/170817631/41d79ffa-c204-485a-b128-f3888bef5a40)
+
